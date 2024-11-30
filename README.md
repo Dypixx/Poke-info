@@ -11,7 +11,7 @@ Poke-Info is a simple web application built using **HTML**, **Tailwind CSS**, an
 - Responsive design powered by **Tailwind CSS**.  
 
 ## Live Demo  
-[Click here to explore Poke-Info!](https://poke-explore.netlify.app)  
+[Click here to explore Poke-Info!](https://pokem-info.netlify.app)  
 
 ---  
 
